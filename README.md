@@ -1,2 +1,1 @@
 # Delani-Studio
-# Delani-Studio
