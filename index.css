@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.container {
+    text-align: center;
+    position: relative;
+}
+
+.middle {
+    position: absolute;
+    top: 16%;
+    left: 30%;
+    transform: translate(-50% -50%);
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+#bac{
+    width: 100%;
+}
+
+#amazing {
+    font-size: small;
+}
