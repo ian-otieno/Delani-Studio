@@ -21,4 +21,22 @@
 #amazing {
     font-size: small;
 }
+.Images{
+    height: 260px;
+    width: 260px;
+  }
+.Images:hover{
+    display: block;
+    opacity: 0.3;
+  }
+
+  #paragraph, #paragraph1, #paragraph2{
+    display: none;
+  }
+  #carrey, #pyra, #studio, #mighty, #have, #word, #burned, #resta{
+    position: relative;
+    display: none; 
+    background-color: whitesmoke;
+    border: 2px solid white;
+  }
   
