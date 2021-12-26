@@ -1,72 +1,92 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
-.container{
-    text-align: center;
-    position: relative;
+.container {
+  text-align: center;
+  position: relative;
 }
 
 .middle {
-    position: absolute;
-    top: 12%;
-    left: 28%;
-    transform: translate(-50% -50%);
-    color: white;
-    font-size: xx-large;
-    text-align: center;
+  position: absolute;
+  top: 12%;
+  left: 28%;
+  transform: translate(-50% -50%);
+  color: white;
+  font-size: xx-large;
+  text-align: center;
 }
-.bac{
-    width: 100%;
+
+.bac {
+  width: 100%;
 }
 
 #amazing {
-    font-size: small;
+  font-size: small;
 }
-.Images{
-    height: 240px;
-    width: 240px;
-  }
-.Images:hover{
-    display: block;
-    opacity: 0.3;
-  }
 
-  #paragraph, #paragraph1, #paragraph2{
-    display: none;
-  }
-  #carrey, #pyra, #studio, #mighty, #have, #word, #burned, #resta{
-    position: relative;
-    display: none; 
-    background-color: whitesmoke;
-    border: 2px solid white;
-  }
-  .contact{
-    background-image: url("Images/background/c_image.jpg");
-    transform: translate(-50% -50%);
-    color: black; 
-    font-size: large;
-    text-align: center;
+.Images {
+  height: 240px;
+  width: 240px;
+}
 
- }
-.con{
+.Images:hover {
+  display: block;
+  opacity: 0.3;
+}
+
+#paragraph,
+#paragraph1,
+#paragraph2 {
+  display: none;
+}
+
+#carrey,
+#pyra,
+#studio,
+#mighty,
+#have,
+#word,
+#burned,
+#resta {
+  position: relative;
+  display: none;
+  background-color: whitesmoke;
+  border: 2px solid white;
+}
+
+.contact {
+  background-image: url("Images/background/c_image.jpg");
+  transform: translate(-50% -50%);
+  color: black;
+  font-size: large;
+  text-align: center;
+
+}
+
+.con {
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
- }
- #message, #name, #mail{
-   background-color: rgba(0, 0, 0, 0);
-    border-color: rgba(0, 0, 0, 0)";
- }
- #name,#mail{
-   width: 380px;
- }
- .forms{
-   border: whitesmoke;
-   color: white;
- }
- #submit{
-   width: 200px;
-   margin-left: 400px;
- }
-  
+}
 
- 
+#message,
+#name,
+#mail {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0)";
+
+}
+
+#name,
+#mail {
+  width: 380px;
+}
+
+.forms {
+  border: whitesmoke;
+  color: white;
+}
+
+#submit {
+  width: 200px;
+  margin-left: 400px;
+}
