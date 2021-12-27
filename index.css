@@ -24,8 +24,8 @@
 }
 
 .Images {
-  height: 240px;
-  width: 240px;
+  height: 230px;
+  width: 230px;
 }
 
 .Images:hover {
@@ -45,12 +45,24 @@
 #mighty,
 #have,
 #word,
-#burned,
+#mock,
 #resta {
   position: relative;
   display: none;
   background-color: whitesmoke;
   border: 2px solid white;
+  color: rgb(105, 221, 27);
+  font-size: 25px;
+  font-weight: bolder;
+  height: 80px;
+  width: 230px;
+  background-color: grey;
+  border-radius: 25px;
+  text-align: center;
+}
+.row{
+  width: 90%;
+  margin-left: 5%;
 }
 
 .contact {
@@ -69,14 +81,14 @@
 }
 
 #message,
-#name,
+#fname,
 #mail {
   background-color: rgba(0, 0, 0, 0);
   border-color: rgba(0, 0, 0, 0)";
 
 }
 
-#name,
+#fname,
 #mail {
   width: 380px;
 }
