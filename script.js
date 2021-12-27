@@ -80,5 +80,17 @@ $(document).ready(function(){
         $(this).stop().animate({opacity:1},550)
         $("#resta").fadeOut();
     });
-    
+    $("form#form").submit(function(event){
+        // event.preventDefault();
+        var name = $("input#fname").val();
+        var email = $("input#mail").val();
+        var message = $("textarea#message").val();
+        if ($("input#fname").val() && $("input#mail").val()){
+          alert (name + ", we have received your message. Thank you for reaching out to us.");
+        }
+        else {
+          alert("Please enter your valid name and valid email!");
+        }
+        
+      });
 });  
