@@ -17,7 +17,7 @@ body {
 .middle {
   position: absolute;
   top: 12%;
-  left: 28%;
+  left: 32%;
   transform: translate(-50% -50%);
   color: white;
   font-size: xx-large;
@@ -63,9 +63,9 @@ body {
   color: rgb(105, 221, 27);
   font-size: 25px;
   font-weight: bolder;
-  height: 80px;
+  height: 100px;
   width: 230px;
-  padding-top: 10px;
+  padding-top: 5px;
   background-color: grey;
   border-radius: 18px;
   text-align: center;

@@ -118,9 +118,9 @@ $(document).ready(function () {
         var email = $("input#mail").val();
         var message = $("textarea#message").val();
         if ($("input#fname").val() && $("input#mail").val()) {
-            alert(name + ", we have received your message. Thank you for reaching out to us.");
+            alert(name + ", we have received your message. Thank you for reaching us.");
         } else {
-            alert("Please enter your valid name and valid email!");
+            alert("Please enter your valid name and  a valid email!");
         }
 
     });
