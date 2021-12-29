@@ -5,7 +5,7 @@ By Ian Otieno
 ## Description
 The project is about creation of a fictional studio called Delani Studio. It is main purpose is to elaborate the functionality and effectiveness of javasscript,jQuery, CSS And Bootstrap.
 ## live demo 
-Click on the link  bellow to view the site;https:https://ian-otieno.github.io/Delani-Studio/
+Click on the link  bellow to view the site;https:
 
 ## Set up and Installation
 1)Install the Visual studio code<br>
