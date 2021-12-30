@@ -3,7 +3,7 @@ This is Delani Studio website landing page designed on the 28/12/2021<br>
 By Ian Otieno
 
 ## Description
-The project is about creation of a fictional studio called Delani Studio. It is main purpose is to elaborate the functionality and effectiveness of javasscript,jQuery, CSS And Bootstrap.
+The project is about the creation of a fictional studio called Delani Studio. Its main purpose is to elaborate the functionality and effectiveness of javascript, jQuery, CSS and Bootstrap.
 ## live demo 
 Click on the link  bellow to view the site;https:https://ian-otieno.github.io/Delani-Studio/
 
