@@ -5,11 +5,7 @@ By Ian Otieno
 ## Description
 The project is about the creation of a fictional studio called Delani Studio. Its main purpose is to elaborate the functionality and effectiveness of javascript, jQuery, CSS and Bootstrap.
 ## live demo 
-<<<<<<< HEAD
-Click on the link  bellow to view the site;https:https:https://ian-otieno.github.io/Delani-Studio/
-=======
 Click on the link  bellow to view the site;https:https://ian-otieno.github.io/Delani-Studio/
->>>>>>> f8c10f58f0d357424b1742ad53a364195f84cea8
 
 ## Set up and Installation
 1)Install the Visual studio code<br>
@@ -22,11 +18,7 @@ Click on the link  bellow to view the site;https:https://ian-otieno.github.io/De
  
   <p>The page then displays the About Section which elaborates more about the studio, it's functionalities and why you may need to hire it.</p>
 
-<<<<<<< HEAD
-  <p>The project is composed of:<strong>What We Do</strong> section that displays the three main  stages of development. That is;<strong>design</strong>, <strong>development</strong> and <strong>product management</strong>. when clicking on each image, the user should be able toggle between the description and the images.</p>
-=======
   <p>The project is composed of; <strong>What We Do</strong> section that displays the three main  stages of development. That is;<strong>design</strong>, <strong>development</strong> and <strong>product management</strong>. when clicking on each image, the user should be able toggle between the description and the images.</p>
->>>>>>> f8c10f58f0d357424b1742ad53a364195f84cea8
 
   <p>The portfolio section consist of the list of projects completed by the Delani Studio. When hovering the mouse over each project image, the user should see the title of the project.</p>
 

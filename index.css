@@ -63,7 +63,12 @@ body {
   color: rgb(105, 221, 27);
   font-size: 25px;
   font-weight: bolder;
+<<<<<<< HEAD
   height: 70px;
+=======
+  height: 70
+  px;
+>>>>>>> f8c10f58f0d357424b1742ad53a364195f84cea8
   width: 230px;
   padding-top: 5px;
   background-color: grey;
@@ -103,7 +108,7 @@ body {
   width: 380px;
 }
 
-.forms {
+.forms{
   border: whitesmoke;
   color: white;
 }
