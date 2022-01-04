@@ -16,7 +16,7 @@ body {
 
 .middle {
   position: absolute;
-  top: 12%;
+  top: 8%;
   left: 32%;
   transform: translate(-50% -50%);
   color: white;
@@ -71,7 +71,7 @@ body {
   text-align: center;
 }
 
-.row {
+.port {
   width: 90%;
   margin-left: 5%;
 }
@@ -94,8 +94,8 @@ body {
 #fname,
 #mail {
   background-color: rgba(0, 0, 0, 0);
-  border-color: rgba(0, 0, 0, 0)";
-
+  border-color: rgba(0, 0, 0, 0) 2px;
+  color: white;
 }
 
 #fname,
