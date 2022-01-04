@@ -6,10 +6,7 @@ By Ian Otieno
 The project is about the creation of a fictional studio called Delani Studio. Its main purpose is to elaborate the functionality and effectiveness of javascript, jQuery, CSS and Bootstrap.
 ## live demo 
 <<<<<<< HEAD
-Click on the link  bellow to view the site;https:https:https://ian-otieno.github.io/Delani-Studio/
-=======
-Click on the link  bellow to view the site;https:https://ian-otieno.github.io/Delani-Studio/
->>>>>>> f8c10f58f0d357424b1742ad53a364195f84cea8
+Click on the link  bellow to view the site;https:https:https://ian-otieno.github.io/Delani-Studio
 
 ## Set up and Installation
 1)Install the Visual studio code<br>
