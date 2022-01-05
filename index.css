@@ -95,8 +95,10 @@ body {
 #fname,
 #mail {
   background-color: rgba(0, 0, 0, 0);
-  border-color: rgba(0, 0, 0, 0)";
-
+  border-color: rgba(0, 0, 0, 0) 2px;
+}
+#message{
+  resize: none;
 }
 
 #fname,
