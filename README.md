@@ -4,8 +4,7 @@ By Ian Otieno
 
 ## Description
 The project is about the creation of a fictional studio called Delani Studio. Its main purpose is to elaborate the functionality and effectiveness of javascript, jQuery, CSS and Bootstrap.
-## live demo 
-<<<<<<< HEAD
+## live demo
 Click on the link  bellow to view the site;https:https:
 
 ## Set up and Installation
